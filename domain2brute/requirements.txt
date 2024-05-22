@@ -1,0 +1,5 @@
+dnspython==2.2.1
+geoip2==4.6.0
+requests==2.27.1
+scapy==2.5.0
+pytz==2024.1
